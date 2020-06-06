@@ -1,0 +1,7 @@
+https://github.com/mysqljs/mysql
+
+https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f  ,,, blir lest
+ 
+
+https://www.terlici.com/2015/08/13/mysql-node-express.html  ,, Obs viktig å lese
+
